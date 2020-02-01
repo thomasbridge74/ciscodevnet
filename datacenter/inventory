@@ -1,0 +1,19 @@
+
+[core]
+core1 ansible_host=172.16.30.55
+core2 ansible_host=172.16.30.56
+
+[dist]
+dist3 ansible_host=172.16.30.57
+dist4 ansible_host=172.16.30.58
+
+[wan]
+wan9 ansible_host=172.16.30.59
+
+[access]
+access5 ansible_host=172.16.30.52
+access6 ansible_host=172.16.30.53
+
+[branch]
+branch10-router10 ansible_host=172.16.30.54
+
